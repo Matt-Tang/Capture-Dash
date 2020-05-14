@@ -3,5 +3,5 @@ Automatic license plate detector that analyzes dash-cam footage and reports vehi
 
 Mimg
 
-<img src="https://github.com/Matt-Tang/Capture-Dash/tree/master/thumbnails/project.gif" width="450" height="150" />
+<img src="https://github.com/Matt-Tang/Capture-Dash/blob/master/thumbnails/project.giff" width="450" height="150" />
 
